@@ -24,7 +24,7 @@ function generatePassword() {
     var pwSpecial = confirm("Would you like to use special characters?");
     console.log(pwSpecial);
   
-    // .split splits my strings into substrings----.toUpperCase
+    // .split splits my strings into substrings----.toUpperCase causes letters to be upper
     var randomChoices = [];
     console.log(randomChoices);
     var numberarr = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
