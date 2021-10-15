@@ -4,6 +4,9 @@ I modified starter code provided to create an application that enables employees
 
 Here is a live link to the website: https://ajdavis2424.github.io/Password-Generator-Repo/
 
+![randompasswordgif](https://user-images.githubusercontent.com/85590236/137414414-af3793db-f1ec-4217-a8fa-07e6c76431be.gif)
+
+
 <img width="1440" alt="Screen Shot 2021-07-16 at 10 57 31 PM" src="https://user-images.githubusercontent.com/85590236/126023286-7aab454d-92ae-4f96-8087-c6b0df5ee56d.png">
 
 ## Contact
